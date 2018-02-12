@@ -20,3 +20,7 @@
 
 ## 末页
 ![末页](/images/Other.png)
+
+# 说明
+
+具体爬虫代码参见[我的仓库](https://github.com/zhongdeming428/MyMemorandum/tree/master/NodeReptile)
